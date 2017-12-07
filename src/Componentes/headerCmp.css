@@ -1,0 +1,14 @@
+.current{
+  color: red;
+}
+
+.activo{
+  color: green;
+}
+a:hover { 
+  background-color: yellow;
+}
+NavItem{
+  color: blue;
+  background-color: red;
+}
